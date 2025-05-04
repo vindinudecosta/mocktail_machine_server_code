@@ -1,0 +1,6997 @@
+{
+  "intents": [
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Make drink one."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Prepare drink number one."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["I want drink one."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Can you make drink one?"],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Drink one, please."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["I want drink number one."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["one."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Make drink 1."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Prepare drink number 1."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["I want drink 1."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Can you make drink 1?"],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["Drink 1, please."],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["1"],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection1",
+      "text": ["I want drink number 1"],
+      "responses": [
+        "Virgin Mojito selected. Preparing your refreshing drink!",
+        "You've chosen a Virgin Mojito. Let's mix it up!",
+        "Virgin Mojito coming right up! Stay fresh."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Make drink two"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Prepare drink number two"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["I want drink two"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Can you make drink two"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Drink two, please"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["I want drink number two"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["two"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Make drink 2"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Prepare drink number 2"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["I want drink 2"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Can you make drink 2"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["Drink 2, please"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection2",
+      "text": ["I want drink number 2"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection2",
+      "text": ["2"],
+      "responses": [
+        "Shirley Temple selected. A sweet classic!",
+        "You've selected a Shirley Temple. Mixing it now!",
+        "Shirley Temple is on the way. Sweet and bubbly!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection3",
+      "text": ["Make drink three"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection3",
+      "text": ["Prepare drink number three"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["I want drink three"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["Can you make drink three"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["Drink three, please"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["I want drink number three"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["three"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    
+    {
+      "intent": "DrinkSelection3",
+      "text": ["Make drink 3"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection3",
+      "text": ["Prepare drink number 3"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["I want drink 3"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["Can you make drink 3"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["Drink 3 please"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection3",
+      "text": ["I want drink number 3"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },{
+      "intent": "DrinkSelection3",
+      "text": ["3"],
+      "responses": [
+        "Virgin Pina Colada selected. A taste of the tropics!",
+        "You've picked a Virgin Pina Colada. Mixing tropical vibes.",
+        "Virgin Pina Colada on its way! A tropical treat."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Make drink four"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Prepare drink number four"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["I want drink four"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Can you make drink four"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Drink four, please"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["I want drink number four"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["four"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Make drink 4"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Prepare drink number 4"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["I want drink 4"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Can you make drink 4"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["Drink 4, please"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["I want drink number 4"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection4",
+      "text": ["4"],
+      "responses": [
+        "Cucumber Cooler selected. A crisp and refreshing choice!",
+        "You've chosen Cucumber Cooler. Refreshment coming up!",
+        "Cucumber Cooler is on the way. Stay cool!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Make drink five"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Prepare drink number five"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["I want drink five"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Can you make drink five"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Drink five, please."],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["I want drink number five"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["five"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Make drink 5"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Prepare drink number 5"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["I want drink 5"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Can you make drink 5"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["Drink 5, please."],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["I want drink number 5"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection5",
+      "text": ["5"],
+      "responses": [
+        "Nojito selected. A mojito without the buzz!",
+        "You've chosen Nojito. Mixing that fresh flavor.",
+        "Nojito coming up! Fresh mint and lime on the way."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Make drink six"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Prepare drink number six"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["I want drink six"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Can you make drink six"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Drink six, please."],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["I want drink number six"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["six"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Make drink 6"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Prepare drink number 6"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["I want drink 6"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Can you make drink 6"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["Drink 6, please."],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["I want drink number 6"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection6",
+      "text": ["6"],
+      "responses": [
+        "Cranberry Spritzer selected. Bubbly and bright!",
+        "You've picked a Cranberry Spritzer. Let's get bubbly.",
+        "Cranberry Spritzer coming up. A zesty, sparkling treat!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Make drink seven"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Prepare drink number seven"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["I want drink seven"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Can you make drink seven"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Drink seven, please."],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["I want drink number seven"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["seven"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Make drink 7"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Prepare drink number 7"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["I want drink 7"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Can you make drink 7"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["Drink 7, please."],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["I want drink number 7"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection7",
+      "text": ["7"],
+      "responses": [
+        "Mango Mule selected. Tropical and spicy!",
+        "You've chosen Mango Mule. A delicious twist is coming.",
+        "Mango Mule on its way. Enjoy the tropical tang!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Make drink eight"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Prepare drink number eight"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["I want drink eight"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Can you make drink eight"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Drink eight, please"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["I want drink eight"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["eight"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Make drink 8"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Prepare drink number 8"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["I want drink 8"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Can you make drink 8"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["Drink 8, please"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["I want drink 8"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection8",
+      "text": ["8"],
+      "responses": [
+        "Virgin Mary selected. Savory and bold!",
+        "You've selected Virgin Mary. Let's spice things up!",
+        "Virgin Mary on its way. Bold flavors coming your way!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Make drink nine"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Prepare drink number nine"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["I want drink nine"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Can you make drink nine"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Drink nine, please"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["I want drink number nine"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["nine"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Make drink 9"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Prepare drink number 9"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["I want drink 9"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Can you make drink 9"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["Drink 9, please"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["I want drink number 9"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection9",
+      "text": ["9"],
+      "responses": [
+        "Citrus Fizz selected. A tangy, sparkling refreshment!",
+        "You've picked Citrus Fizz. Get ready for a zingy drink!",
+        "Citrus Fizz is on its way. Bright and refreshing!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Make drink ten"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Prepare drink number ten"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["I want drink ten"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Can you make drink ten"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Drink ten, please."],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["I want drink number ten"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["ten"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+ 
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Make drink 10"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Prepare drink number 10"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["I want drink 10"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Can you make drink 10"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["Drink 10, please."],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["I want drink number 10"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection10",
+      "text": ["10"],
+      "responses": [
+        "Berry Blast selected. Bursting with berry goodness!",
+        "You've chosen Berry Blast. A flavorful explosion is coming.",
+        "Berry Blast is on its way. Enjoy the fruity goodness!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Make drink eleven"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Prepare drink number eleven"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["I want drink eleven"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Can you make drink eleven"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Drink eleven, please"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["I want drink number eleven"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["eleven"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Make drink 11"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Prepare drink number 11"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["I want drink 11"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Can you make drink 11"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["Drink 11, please"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["I want drink number 11"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection11",
+      "text": ["11"],
+      "responses": [
+        "Arnold Palmer selected. Half iced tea, half lemonade!",
+        "You've chosen Arnold Palmer. The perfect balance of flavors.",
+        "Arnold Palmer coming up! Refreshing and classic."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Make drink twelve"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Prepare drink number twelve"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["I want drink twelve"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Can you make drink twelve"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Drink twelve, please."],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["I want drink number twelve"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["twelve"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Make drink 12"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Prepare drink number 12"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["I want drink 12"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Can you make drink 12"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["Drink 12, please."],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["I want drink number 12"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection12",
+      "text": ["12"],
+      "responses": [
+        "Sparkling Apple Cider selected. Crisp and bubbly!",
+        "You've chosen Sparkling Apple Cider. Mixing a fizzy treat!",
+        "Sparkling Apple Cider coming up! Crisp and refreshing."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Make drink thirteen"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Prepare drink number thirteen"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["I want drink thirteen"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Can you make drink thirteen"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Drink thirteen, please"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["I want drink number thirteen"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["thirteen"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Make drink 13"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Prepare drink number 13"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["I want drink 13"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Can you make drink 13"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["Drink 13, please"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["I want drink number 13"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection13",
+      "text": ["13"],
+      "responses": [
+        "Lemon Basil Spritzer selected. Zesty and herbal!",
+        "You've picked Lemon Basil Spritzer. Get ready for something fresh.",
+        "Lemon Basil Spritzer on its way. A unique and refreshing combo!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Make drink fourteen"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Prepare drink number fourteen"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["I want drink fourteen"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Can you make drink fourteen"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Drink fourteen please."],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["I want drink number fourteen"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["fourteen"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Make drink 14"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Prepare drink number 14"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["I want drink 14"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Can you make drink 14"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["Drink 14 please."],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["I want drink number 14"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection14",
+      "text": ["14"],
+      "responses": [
+        "Watermelon Lemonade selected. A fruity twist on a classic!",
+        "You've chosen Watermelon Lemonade. Mixing up something sweet and tangy.",
+        "Watermelon Lemonade coming up! Fresh and fruity."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Make drink fifteen"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Make drink fifteen"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["I want drink fifteen"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Can you make drink fifteen"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Drink fifteen, please."],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["I want drink number fifteen"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["fifteen"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Make drink 15"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Make drink 15"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["I want drink 15"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Can you make drink 15"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["Drink 15, please."],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["I want drink number 15"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection15",
+      "text": ["15"],
+      "responses": [
+        "Ginger Beer Limeade selected. Spicy and zesty!",
+        "You've picked Ginger Beer Limeade. Let's get that spice going.",
+        "Ginger Beer Limeade on its way. Enjoy the kick!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Make drink sixteen"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Prepare drink number sixteen"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["I want drink sixteen"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Can you make drink sixteen"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Drink sixteen, please."],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["I want drink number sixteen"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["sixteen"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Make drink 16"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Prepare drink number 16"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["I want drink 16"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Can you make drink 16"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["Drink 16, please."],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["I want drink number 16"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    {
+      "intent": "DrinkSelection16",
+      "text": ["16"],
+      "responses": [
+        "Pineapple Ginger Ale selected. A tropical, spicy blend!",
+        "You've chosen Pineapple Ginger Ale. Mixing up something special.",
+        "Pineapple Ginger Ale coming up! Tropical flavors with a kick."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Make drink seventeen"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Prepare drink number seventeen"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["I want drink seventeen"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Can you make drink seventeen"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Drink seventeen, please."],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["I want drink number seventeen"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["seventeen"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Make drink 17"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Prepare drink number 17"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["I want drink 17"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Can you make drink 17"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["Drink 17, please."],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["I want drink number 17"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection17",
+      "text": ["17"],
+      "responses": [
+        "Rose Lemon Spritzer selected. Floral and refreshing!",
+        "You've picked Rose Lemon Spritzer. Let's mix something elegant.",
+        "Rose Lemon Spritzer on its way! A delicate and refreshing drink."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Make drink eighteen"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Prepare drink number eighteen"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["I want drink eighteen"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Can you make drink eighteen"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Drink eighteen, please"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["I want drink number eighteen"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["eighteen"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Make drink 18"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Prepare drink number 18"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["I want drink 18"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Can you make drink 18"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["Drink 18, please"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["I want drink number 18"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+    {
+      "intent": "DrinkSelection18",
+      "text": ["18"],
+      "responses": [
+        "Blue Lagoon Mocktail selected. Refreshing and vibrant!",
+        "You've picked Blue Lagoon Mocktail. Get ready for something bright and tasty.",
+        "Blue Lagoon Mocktail coming up! A burst of flavor and color."
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Make drink nineteen"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Prepare drink number nineteen"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["I want drink nineteen"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Can you make drink nineteen"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Drink nineteen, please"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["I want drink number nineteen"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["nineteen"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Make drink 19"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Prepare drink number 19"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["I want drink 19"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Can you make drink 19"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["Drink 19, please"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["I want drink number 19"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection19",
+      "text": ["19"],
+      "responses": [
+        "Virgin Sangria selected. A fruity, non-alcoholic delight!",
+        "You've chosen Virgin Sangria. Mixing up a fruity refreshment.",
+        "Virgin Sangria on its way. A vibrant and refreshing choice!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Make drink twenty"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Prepare drink number twenty"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["I want drink twenty"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Can you make drink twenty"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Drink twenty, please"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["I want drink number twenty"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["twenty"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+
+
+
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Make drink 20"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Prepare drink number 20"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["I want drink 20"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Can you make drink 20"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["Drink twenty, 20"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["I want drink number 20"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "DrinkSelection20",
+      "text": ["20"],
+      "responses": [
+        "Tropical Sunrise selected. A bright and sunny drink!",
+        "You've chosen Tropical Sunrise. Mixing up a colorful refreshment.",
+        "Tropical Sunrise on its way. Enjoy the sunny vibes!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "intent": "High",
+      "text": ["High"],
+      "responses": [
+        "Ok. added for prefernces"
+ 
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "medium",
+      "text": ["Medium"],
+      "responses": [
+        "Ok. added for prefernces"
+   
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "Low",
+      "text": ["Low"],
+      "responses": [
+        "Ok. added for prefernces"
+       
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "OrderConfirm",
+      "text": ["yes"],
+      "responses": [
+        "Drink on its way.please wait!"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "OrderRejection",
+      "text": ["No"],
+      "responses": [
+        "order cancelled"
+      ],
+      "extension": {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context": {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    }
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  ]
+}
